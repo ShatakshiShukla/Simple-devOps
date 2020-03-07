@@ -1,0 +1,6 @@
+mkdir work
+cd work
+vagrant init bento/ubuntu-16.04
+vagrant up
+
+
